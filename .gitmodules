@@ -1,0 +1,3 @@
+[submodule "app/kvstore"]
+	path = app/kvstore
+	url = https://github.com/Sirneij/rust-kvstore.git
