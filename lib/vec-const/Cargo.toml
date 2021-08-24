@@ -1,0 +1,17 @@
+[package]
+name = "vec-const"
+version = "1.2.1"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+authors = ["Griffin O'Neill <gsoneill1003@gmail.com>"]
+description = """
+Use black magic to declare Vecs as const.
+"""
+keywords = ["vec", "const"]
+homepage = "https://github.com/Eolu/vec-const"
+repository = "https://github.com/Eolu/vec-const"
+categories = ["data-structures", "development-tools", "memory-management", "rust-patterns"]
+documentation = "https://docs.rs/vec-const"
+
+[dependencies]
