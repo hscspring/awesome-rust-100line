@@ -1,4 +1,4 @@
-# rust-100line-app
+# rust-100line-apps-or-libs
 Collection of minimal rust libs or apps.
 
 
