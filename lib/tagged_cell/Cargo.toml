@@ -1,0 +1,17 @@
+[package]
+name = "tagged_cell"
+version = "0.1.1"
+authors = ["David Schwarz <dsdavidschwarz@gmail.com>"]
+edition = "2018"
+
+description = "Fast, initializable, and thread safe static variables"
+readme = "README.md"
+documentation = "https://docs.rs/tagged_cell"
+
+repository = "https://github.com/dasch0/tagged_cell"
+keywords = ["lazy", "static", "tag", "zst", "macro"]
+categories = ["rust-patterns", "memory-management"]
+
+license = "MIT OR Apache-2.0"
+
+[dependencies]
